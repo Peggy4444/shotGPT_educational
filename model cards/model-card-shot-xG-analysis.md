@@ -166,6 +166,3 @@ is intended as an illustration of the methods. This work is a derivative of the 
   - Alongside, an example of synthesized text demonstrates how the xG predictions are verbalized for end users.
 
 ---
-
-## License
-TODO(This framework is licensed under [Your License]. Please refer to the `LICENSE` file for more details.)
